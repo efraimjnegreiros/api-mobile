@@ -1,0 +1,46 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Efraim José",
+      "email": "efraim@gmail.com",
+      "senha": "123456",
+      "tokenExpo": "ExponentPushToken[xxxxxxxxxxxxxxxxxxxxxx]"
+    },
+    {
+      "id": "97a8",
+      "nome": "Efraim José",
+      "email": "efraaim@gmail.com",
+      "senha": "123456",
+      "tokenExpo": "ExponentPushToken[xxxxxxxxxxxxxxxxxxxxxx]"
+    },
+    {
+      "id": "d52e",
+      "nome": "a@gmail.com",
+      "email": "a@gmail.com",
+      "senha": "12345678",
+      "tokenExpo": ""
+    },
+    {
+      "id": "48b3",
+      "nome": "a@gmail.com",
+      "email": "a@gmail.com",
+      "senha": "12345678",
+      "tokenExpo": ""
+    },
+    {
+      "id": "dd6f",
+      "nome": "a",
+      "email": "nilson@gmail.com",
+      "senha": "12345678",
+      "tokenExpo": ""
+    },
+    {
+      "id": "8cd7",
+      "nome": "a",
+      "email": "nilson@gmail.com",
+      "senha": "12345678",
+      "tokenExpo": ""
+    }
+  ]
+}
